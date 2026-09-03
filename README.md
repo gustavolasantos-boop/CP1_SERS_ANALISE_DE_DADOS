@@ -6,7 +6,7 @@
 * **Gabriel Camarosani - RM: 569189**
 * **Gabriel Carvalho - RM: 571381**
 * **Gustavo Lima - RM: 571709**
-* **Pedro Souza - RM: **
+* **Pedro Castro - RM: 569311**
   
 Projeto desenvolvido para a disciplina **Soluções em Energias Renováveis e Sustentáveis**, do curso de **Ciência da Computação**.
 
