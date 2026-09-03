@@ -1,6 +1,6 @@
 # Análise de Dados de Energia — SERS
 
-## 👥 Integrantes
+## 👥 Integrantes 1CCPG
 
 * **Lucas Barreto Santana**
 * **Gabriel Camarosani**
