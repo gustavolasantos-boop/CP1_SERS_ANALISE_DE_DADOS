@@ -2,11 +2,11 @@
 
 ## 👥 Integrantes 1CCPG
 
-* **Lucas Barreto Santana**
-* **Gabriel Camarosani**
-* **Gabriel Carvalho**
-* **Gustavo Lima**
-* **Pedro Souza**
+* **Lucas Barreto Santana RM: 573149**
+* **Gabriel Camarosani - RM: 569189**
+* **Gabriel Carvalho - RM: 571381**
+* **Gustavo Lima - RM: 571709**
+* **Pedro Souza - RM: **
   
 Projeto desenvolvido para a disciplina **Soluções em Energias Renováveis e Sustentáveis**, do curso de **Ciência da Computação**.
 
