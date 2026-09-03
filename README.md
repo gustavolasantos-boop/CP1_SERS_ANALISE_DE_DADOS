@@ -7,6 +7,7 @@
 * **Gabriel Carvalho**
 * **Gustavo Lima**
 * **Pedro Souza**
+  
 Projeto desenvolvido para a disciplina **Soluções em Energias Renováveis e Sustentáveis**, do curso de **Ciência da Computação**.
 
 O projeto reúne duas etapas de análise de dados realizadas pela equipe:
